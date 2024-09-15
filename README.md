@@ -1,4 +1,5 @@
 *Como usar as Funcionalidades*
+
 Depois de executar o sistema, você verá um menu com as seguintes opções:
 
 Sistema de Gerenciamento de Contatos:
